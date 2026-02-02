@@ -1,4 +1,4 @@
-# 16-Stage-Pipelined-CORDIC-Processing-Units
+# 16-Stage Pipelined CORDIC Processing Units
 RTL Verilog | Shift–Add Architecture | FPGA-Oriented Design
 
 ---
