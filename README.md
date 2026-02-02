@@ -64,16 +64,6 @@ A unified datapath is reused across all modes. Quadrant correction is applied at
 
 ---
 
-## Fixed-Point Considerations
-
-- Word length: 16-bit signed two’s complement  
-- Circular mode introduces CORDIC gain  
-- Overflow may occur for large input magnitudes in circular vectoring mode  
-
-Overflow behavior is analyzed and documented rather than masked. Input pre-scaling can be applied if required.
-
----
-
 ## Verification
 
 - Verified in Vivado simulation  
