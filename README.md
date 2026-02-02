@@ -91,9 +91,9 @@ Waveforms are provided in the `results/` directory.
 
 ## Repository Structure
 cordic-16stage-pipelined/
-- code/ # RTL Verilog source files and testbench
-- results/ # Simulation waveforms and outputs
-- README.md
+- `code/` # RTL Verilog source files and testbench
+- `results/` # Simulation waveforms and outputs
+- `README.md`
 
 
 ---
